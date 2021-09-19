@@ -1,7 +1,7 @@
 <h1>< Hemlo, world    👋/></h1>
 <h5>woops symtax errmr<h5>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="50%" height="50%" style="position:absolute" class="giphy-embed" allowFullScreen></iframe></div>
+<img src="https://i.imgur.com/OOpRj.gif" align="center" style="width: 60%" />
 
 <h2>  Connect with me  # 💬 </h2>
 <a href="https://twitter.com/SubhadeepDataa" target="_blank">
@@ -24,7 +24,7 @@
 <img height="200" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <h1>byy i go  🙃</h1>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/dSgYBRG11Xk8VZdsKw" width="40%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<img src="https://media1.giphy.com/media/dSgYBRG11Xk8VZdsKw/giphy.gif?cid=790b761190b57689d5be8a7b70affd95c2f839289c6e9fa9&rid=giphy.gif&ct=g" align="center" style="width: 60%" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=subhoS)
 
