@@ -18,6 +18,8 @@
 <a href="https://github.com/muskanrani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhoS&layout=compact&theme=tokyonight" /></a>
 
 <br>
+<br>
+<br>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhoS&theme=dracula)
 
