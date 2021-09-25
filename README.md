@@ -1,4 +1,4 @@
-<h1>< Hemlo, world   👋/></h1>
+<h1>< Hemlo, world    👋/></h1>
 <h5>woops symtax errmr<h5>
 
 <img src="https://i.imgur.com/OOpRj.gif" align="center" style="width: 60%" />
